@@ -3,3 +3,6 @@
 ################################################################################
 
 /GoodApp/.vs/GoodApp/v17
+/GoodApp/GoodApp/bin/Debug/netcoreapp3.1
+/GoodApp/GoodApp/obj
+/.vs
